@@ -42,9 +42,9 @@ Sonuç: `"Geçersiz mahkeme türü. Lütfen 'Asliye' veya 'Tüketici' olarak gir
 
 ### Aşağıdaki adımlardan herhangi biri ile belirtilen formülü excelde kullanmaya başlayabilirsiniz.
 
-1. Excelde Dosya > Seçenekler > Yönet kısmında Excel Eklentileri seçili iken Git butonuna tıklayarak, açılan pencerede "Gözat" butonuna tıkladıktan sonra "Dava Vekalet Ücret Örnek Excel.xlam" dosyasını seçerek eklenti olarak excele dahil edebilir, (Bu adım ile tüm excel dosyalarınızda formülü kullanabilmenizi sağlayacaktır)
+1. Excelde Dosya > Seçenekler > Yönet kısmında Excel Eklentileri seçili iken Git butonuna tıklayarak, açılan pencerede "Gözat" butonuna tıkladıktan sonra "Dava Vekalet Ücret Örnek Excel.xlam" dosyasını seçerek eklenti olarak excele dahil edebilir, (Bu adım ile tüm excel dosyalarınızda formülü kullanabilmenizi sağlayacaktır. ÖNERİLEN)
 
-2. "Dava Vekalet Ücret Örnek Excel.xlsm" dosyasını indirerek "Makro devre dışı bırıkıldı uyarısında yer alan İçeriği Etkinleştirerek bu dosya içerisinde kullanmaya başlayabilir,
+2. "Dava Vekalet Ücret Örnek Excel.xlsm" dosyasını indirerek "Makro devre dışı bırıkıldı uyarısında yer alan İçeriği Etkinleştirerek bu dosya içerisinde kullanmaya başlayabilir (Korumalı Excellerde kullanım sağlanamayabilir),
 
 3. Depoda bulunan "DavaVekaletUcretHesaplama.bas" dosyasını Geliştirici module olarak Geliştirici > Visual Basic alanına ekleyebilir,
 
